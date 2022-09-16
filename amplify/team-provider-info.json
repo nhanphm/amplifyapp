@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "testinglocal0ca35f60": {}
+      },
+      "storage": {
+        "testinglocalb4062b4f": {
+          "bucketName": "ai-bucket",
+          "region": "ap-southeast-1"
+        }
       }
     }
   }
